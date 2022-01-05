@@ -1,0 +1,26 @@
+
+.navbar {
+    background-color: greenyellow;
+}
+
+.quem-somos {
+    background-color:rgb(144, 126, 156);
+    color:black;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-top: 20px;
+}
+.parceiros {
+    background-color:rgb(145, 196, 170);
+    color:black
+}
+.serviços {
+    background-color: rgb(189, 207, 238);
+    color:black;
+}
+.bg-footer {
+    background-color: black;
+    color:blanchedalmond
+}
